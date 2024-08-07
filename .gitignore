@@ -22,4 +22,3 @@ output_latex/
 *.run.xml
 public
 server
-*.lock
