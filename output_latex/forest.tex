@@ -1,0 +1,25 @@
+\documentclass[oneside,a4paper]{book}%
+\usepackage[final]{microtype}%
+\usepackage{amsthm,mathtools}%
+\usepackage{xcolor}%
+\usepackage[colorlinks=true,linkcolor={blue!30!black}]{hyperref}%
+\newtheorem{theorem}{Theorem}[chapter]%
+\newtheorem{lemma}[theorem]{Lemma}%
+\newtheorem{observation}[theorem]{Observation}%
+\newtheorem{axiom}[theorem]{Axiom}%
+\newtheorem{corollary}[theorem]{Corollary}%
+\theoremstyle{definition}%
+\newtheorem{definition}[theorem]{Definition}%
+\newtheorem{construction}[theorem]{Construction}%
+\newtheorem{example}[theorem]{Example}%
+\newtheorem{convention}[theorem]{Convention}%
+\newtheorem{exercise}{Exercise}%
+\usepackage{newtxmath,newtxtext}%
+\usepackage[mode=buildmissing]{standalone}%
+\setcounter{tocdepth}{5}%
+\setcounter{secnumdepth}{5}%
+\title{The root of my forest}\author{my-name}\begin{document}
+\begin{filecontents*}[overwrite]{\jobname.bib}
+
+\end{filecontents*}
+\frontmatter\maketitle\tableofcontents\mainmatter\par{}This is an example tree in my forest.\backmatter\nocite{*}\bibliographystyle{plain}\bibliography{\jobname.bib}\end{document}

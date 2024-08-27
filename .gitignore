@@ -6,7 +6,6 @@ latex
 data/*.yml
 macros/compiled/
 latex/trees
-output_latex/
 *.aux
 *.dvi
 *.log
@@ -20,5 +19,5 @@ output_latex/
 *.bcf
 *.blg
 *.run.xml
-public
 server
+*.lock
