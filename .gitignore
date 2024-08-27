@@ -21,3 +21,4 @@ latex/trees
 *.run.xml
 server
 *.lock
+output_latex/
