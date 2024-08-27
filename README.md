@@ -1,12 +1,3 @@
-This repository is deprecated as of Forester 4.1, which adds the `forester init` command.
-
-## Cloning this repository
-
-You must clone this repository with submodules include, as in:
-
-    git clone --recursive https://git.sr.ht/~jonsterling/forest-template
-
-
 ## Build dependencies
 
 To build this forest, you need to have a working installation of the following software:
