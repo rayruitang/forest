@@ -2,5 +2,5 @@
 trees = ["trees"]
 assets = ["assets"]
 theme = ["theme"]
-root = "aa-0001"
+root = "rt-0001"
 base_url = "https://rayruitang.github.io"
