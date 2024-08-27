@@ -2,6 +2,4 @@
 	path = theme
 	url = https://git.sr.ht/~jonsterling/forester-base-theme
 
-[submodule "trees/public"]
-	path = trees/public
-	url = https://git.sr.ht/~rtang/public-trees
+
