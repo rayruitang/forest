@@ -1,0 +1,7 @@
+\title{subgroup}
+\date{2024-08-29}
+\author{ruitang}
+\taxon{definition}
+\import{aa-0001}
+
+\p{A \dem{subgroup} of a \dem{[[aa-0007]]} #{G} is a subset #{H} of #{G} that is itself a group under the same binary operation of #{G}.}

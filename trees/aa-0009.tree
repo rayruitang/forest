@@ -1,0 +1,7 @@
+\title{coset}
+\date{2024-08-29}
+\author{ruitang}
+\taxon{definition}
+\import{aa-0001}
+
+\p{Let #{H} be a \dem{[[aa-0008]]} of a \dem{[[aa-0007]]} #{G}. For any #{a\in G}, the \dem{left coset} of #{H} in #{G} is the set #{aH=\set{ah:h\in H}}. The \dem{right coset} of #{H} in #{G} is the set #{Ha=\set{ha:h\in H}}.}

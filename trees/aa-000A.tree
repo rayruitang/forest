@@ -1,0 +1,7 @@
+\title{index of a group}
+\date{2024-08-30}
+\author{ruitang}
+\taxon{definition}
+\import{aa-0001}
+
+\p{Let #{H} be a \dem{[[aa-0008]]} of a \dem{[[aa-0007]]} #{G}. The \dem{index} of #{H} in #{G} is the number of \dem{left [[aa-0009]]s} of #{H} in #{G}.}

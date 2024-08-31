@@ -1,0 +1,11 @@
+\title{Lecture 1}
+\date{2024-08-26}
+\author{ruitang}
+
+\scope{
+  \put\transclude/heading{false}
+  \put\transclude/toc{false}
+  \transclude{aa-0005}
+}
+
+\transclude{aa-0006}

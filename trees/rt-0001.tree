@@ -1,0 +1,45 @@
+\title{Rui Tang}
+\author{ruitang}
+\meta{author}{false}
+\tag{top}
+
+\p{I am a third-year Ph.D. student in [MC2](https://cyber.umd.edu/) at [University of Maryland, College Park](https://umd.edu/).}
+
+\scope{
+  \put\transclude/numbered{false}
+  \scope{
+    \put\transclude/title{research themes}
+    \transclude{rt-0002}
+  }
+
+  \transclude{rt-0003}
+}
+
+
+
+\put\transclude/expanded{false}
+
+\scope{
+  \put\transclude/title{blog posts}
+  \transclude{rt-0004}
+}
+
+\subtree{
+  \title{publications}
+  \query{
+    \open\query
+    \isect{\author{jonmsterling}}{\taxon{reference}}{
+    \union{\tag{refereed}}{\tag{accepted}}
+    }
+  }
+}
+
+\subtree{
+  \title{Preprints}
+  \query{
+    \open\query
+    \isect{\author{jonmsterling}}{\taxon{reference}}{
+    \union{\tag{preprint}}{\tag{accepted}}
+    }
+  }
+}

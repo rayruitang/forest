@@ -1,0 +1,13 @@
+\title{group}
+\date{2024-08-27}
+\author{ruitang}
+\taxon{definition}
+\import{aa-0001}
+
+\p{A \dem{group} #{G} is a set with a [[binary relation]] that satisfies the following properties:}
+
+\ol{
+	\li{(associativity) For all #{a,b,c\in G}, we have #{\prn{a\circ b}\circ c=a\circ \prn{b\circ c}}} 
+	\li{(indentity) For all #{a,b,c\in G}, we have #{a\circ e=e\circ a=a}} 
+	\li{(inverse) For every #{a\in G}, there is #{b\in G} for which #{a\circ b=b\circ a=e}}
+}

@@ -1,0 +1,21 @@
+\title{[[aa-0003]] abstract algebra (2023-24)}
+\date{2024}
+\author{roohollahebrahimian}
+\taxon{course}
+\meta{external}{https://umd.instructure.com/courses/1370651}
+\meta{venue}{[[umd]]}
+\tag{top}
+
+\p{The course aims to prepare graduate students with mature skills in algebra.}
+
+\p{Lectured by [[roohollahebrahimian]].}
+
+\put\transclude/numbered{false}
+\put\transclude/metadata{true}
+\put\transclude/expanded{false}
+\put\transclude/toc{false}
+
+\transclude{aa-0001}
+
+
+

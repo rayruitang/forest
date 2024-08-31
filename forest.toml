@@ -1,6 +1,7 @@
 [forest]
 trees = ["trees"]
 assets = ["assets"]
-theme = ["theme"]
+theme = "theme"
 root = "rt-0001"
-base_url = "https://rayruitang.github.io"
+prefixes = ["aa", "rt", "crypt"]
+base_url = "https://rayruitang.github.io/forest"
